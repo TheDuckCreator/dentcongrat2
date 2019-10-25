@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dentcongrat/static/css/main.045f45d9.chunk.css",
+    "main.js": "/dentcongrat/static/js/main.cf6ed67f.chunk.js",
+    "main.js.map": "/dentcongrat/static/js/main.cf6ed67f.chunk.js.map",
+    "runtime-main.js": "/dentcongrat/static/js/runtime-main.0e73c3ae.js",
+    "runtime-main.js.map": "/dentcongrat/static/js/runtime-main.0e73c3ae.js.map",
+    "static/css/2.0624914a.chunk.css": "/dentcongrat/static/css/2.0624914a.chunk.css",
+    "static/js/2.ecd28816.chunk.js": "/dentcongrat/static/js/2.ecd28816.chunk.js",
+    "static/js/2.ecd28816.chunk.js.map": "/dentcongrat/static/js/2.ecd28816.chunk.js.map",
+    "index.html": "/dentcongrat/index.html",
+    "precache-manifest.8131fc8a8c8146b6ec8aa1f0a6c81d7c.js": "/dentcongrat/precache-manifest.8131fc8a8c8146b6ec8aa1f0a6c81d7c.js",
+    "service-worker.js": "/dentcongrat/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/dentcongrat/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.045f45d9.chunk.css.map": "/dentcongrat/static/css/main.045f45d9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e73c3ae.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.ecd28816.chunk.js",
+    "static/css/main.045f45d9.chunk.css",
+    "static/js/main.cf6ed67f.chunk.js"
+  ]
+}
